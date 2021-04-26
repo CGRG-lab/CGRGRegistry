@@ -4,3 +4,4 @@ repo = "https://github.com/CGRG-lab/CgrgRegistry"
 description = "The Julia package registry of the Computational Geophysics Research Group of National Central University, Taiwan."
 
 [packages]
+e6213164-e472-4082-9e51-db24b57ca6ab = { name = "GeneralTools", path = "G/GeneralTools" }
