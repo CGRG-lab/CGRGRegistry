@@ -1,0 +1,6 @@
+name = "CgrgRegistry"
+uuid = "c7f31297-621b-4425-b090-decbb3e830e1"
+repo = "https://github.com/CGRG-lab/CgrgRegistry"
+description = "The Julia package registry of the Computational Geophysics Research Group of National Central University, Taiwan."
+
+[packages]
